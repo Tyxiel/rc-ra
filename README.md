@@ -68,3 +68,5 @@ O formato `colab.research.google.com/github/<usuario>/<repo>/blob/<branch>/<arqu
 
 - Python 3 · [aima3](https://pypi.org/project/aima3/) (aima-python): `FolKB`, `expr`, `unify`, `subst`, `fol_fc_ask`, `fol_bc_ask`, `tell`, `ask`, `retract`
 - Materiais de referência: AIMA (Russell & Norvig) e Brachman & Levesque, *Knowledge Representation and Reasoning* (2004)
+
+OBS: README GERADO COM AJUDA DE INTELIGENCIA ARTIFICIAL (DEEPSEEK).
